@@ -1,0 +1,11 @@
+# Resemblyzer s'installe a part (voir LISEZMOI.md) : pip install resemblyzer --no-deps
+fastapi
+uvicorn
+python-multipart
+numpy
+scipy
+soundfile
+librosa
+tqdm
+webrtcvad-wheels
+faster-whisper
